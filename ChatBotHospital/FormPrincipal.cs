@@ -21,7 +21,7 @@ namespace ChatBotHospital
 
 
         ChatBot bot1 = new ChatBot(Path.Combine(Application.StartupPath, "respostas.json"));
-        ServicoIA servicoIA = new ServicoIA("AIzaSyDm_YJPb8OtwMBfBLaOu66bSL5vk7qdV_s");
+        ServicoIA servicoIA = new ServicoIA("Sua KEY");
         ServicoHistorico historico = new ServicoHistorico(Path.Combine(Application.StartupPath, "historico.txt"));
 
         private async void btn_enviar_Click(object sender, EventArgs e)
