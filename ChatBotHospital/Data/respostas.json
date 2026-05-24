@@ -1,0 +1,24 @@
+﻿{
+	"Categorias": [
+		{
+			"Nome": "Agendamento",
+			"PalavrasChave": [ "agendar", "consulta", "marcar", "vaga", "horário disponível", "hora" ],
+			"Resposta": "Olá! Para realizar o seu agendamento, por favor, envie o seu nome completo e a data de preferência. Em instantes confirmaremos os horários livres."
+		},
+		{
+			"Nome": "Emergência",
+			"PalavrasChave": [ "urgente", "dor", "socorro", "ajuda", "agora", "grave" ],
+			"Resposta": "⚠️ ATENÇÃO: Se este for um caso de emergência com risco de vida, ligue imediatamente para o 192 (SAMU) ou vá ao pronto-socorro mais próximo. Para urgências no nosso atendimento, ligue diretamente no telefone fixo: (11) 99999-9999."
+		},
+		{
+			"Nome": "Horários",
+			"PalavrasChave": [ "funcionamento", "abre", "fecha", "sábado", "horário de atendimento" ],
+			"Resposta": "Nosso horário de atendimento é de segunda a sexta-feira, das 08:00 às 18:00, e aos sábados, das 08:00 às 12:00. Não abrimos aos domingos e feriados."
+		}
+		
+
+	]
+}
+	
+
+
